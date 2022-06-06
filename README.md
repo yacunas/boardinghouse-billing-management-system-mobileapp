@@ -1,6 +1,6 @@
-# billing_management
+# Billing-Management-System-MobileApplication
 
-A new Flutter project.
+A Software Engineering Project
 
 ## Getting Started
 
